@@ -1,0 +1,20 @@
+.btn {
+  padding: 8px 18px 8px;
+  border-radius: 20px;
+  margin: 10px 30px 10px;
+  cursor: pointer;
+}
+
+.active-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+  border-width: 0px;
+  padding: 10px 20px 10px;
+}
+
+.inactive-btn {
+  background-color: transparent;
+  color: #db1c48;
+  border-width: 1px;
+  border-color: #db1c48;
+}
